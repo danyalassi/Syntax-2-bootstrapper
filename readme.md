@@ -1,4 +1,4 @@
-# Syntax Boostrapper
+# Syntax 2 Boostrapper
 A bootstrapper written in Rust meant to replace the old Roblox Launcher
 
 You are welcome to add support to other platforms ( *MacOS* ) or add improvements to the bootstrapper
