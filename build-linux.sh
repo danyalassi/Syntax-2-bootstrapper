@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is for Linux build
+
 
 # Ensure the Rust target for Linux is available
 rustup target add x86_64-unknown-linux-gnu
